@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: blueviolet;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    height: 100%;
+    align-items: center;
+    background-color: blueviolet;
+}
+
+.bg-dark #p1 {
+    width: 100%;
+}
